@@ -29,7 +29,7 @@ function ver(){
 ````
 ## Enlaces
 El texto entre corchetes y el enlace entre paréntesis
-[Ir a la pagina 2](pagina2.md)
+[Ver comandos gitbasicos](comandosgitmd.md)
 
 ## Imágenes
 ![Logotipo de markdown](markdown.png)
